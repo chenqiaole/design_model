@@ -1,4 +1,4 @@
-package com.believe.you.design.abstractfactorypattern;
+package com.believe.you.design.abstractfactorypattern.bean;
 
 public class User {
 	private int mID;

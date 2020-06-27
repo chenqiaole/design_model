@@ -1,4 +1,6 @@
-package com.believe.you.design.abstractfactorypattern;
+package com.believe.you.design.abstractfactorypattern.dao;
+
+import com.believe.you.design.abstractfactorypattern.bean.User;
 
 /**
  * @Author: qiaole
